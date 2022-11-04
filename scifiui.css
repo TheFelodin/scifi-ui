@@ -287,7 +287,7 @@ i.fa-caret-down::before {
 }
 #sidebar #sidebar-tabs i.fa-th-list {
     content: "";
-    background-image: url("/modules/scifi-ui/ui/img/cards.webp") !important;
+    background-image: url("/modules/scifi-ui/ui/img/tables.webp") !important;
     width: 40px !important;
     height: 40px !important;
     display: inline-block !important;
